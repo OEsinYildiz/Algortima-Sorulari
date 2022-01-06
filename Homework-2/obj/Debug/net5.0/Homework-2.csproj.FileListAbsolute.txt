@@ -1,0 +1,16 @@
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\bin\Debug\net5.0\Homework-2.exe
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\bin\Debug\net5.0\Homework-2.deps.json
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\bin\Debug\net5.0\Homework-2.runtimeconfig.json
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\bin\Debug\net5.0\Homework-2.runtimeconfig.dev.json
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\bin\Debug\net5.0\Homework-2.dll
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\bin\Debug\net5.0\ref\Homework-2.dll
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\bin\Debug\net5.0\Homework-2.pdb
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\obj\Debug\net5.0\Homework-2.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\obj\Debug\net5.0\Homework-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\obj\Debug\net5.0\Homework-2.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\obj\Debug\net5.0\Homework-2.AssemblyInfo.cs
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\obj\Debug\net5.0\Homework-2.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\obj\Debug\net5.0\Homework-2.dll
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\obj\Debug\net5.0\ref\Homework-2.dll
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\obj\Debug\net5.0\Homework-2.pdb
+C:\Users\omere\Desktop\Patika\Algortima Soruları\Algortima Sorulari\Homework-2\obj\Debug\net5.0\Homework-2.genruntimeconfig.cache
